@@ -9,7 +9,7 @@
 
 This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://giedresavickiene.github.io/sing-up/
+Site published at: https://giedresavickiene.github.io/Web-desing/
 
 Design: [Web designe] http://localhost:3000/
 
@@ -21,4 +21,4 @@ Design: [Web designe] http://localhost:3000/
 
 ## Authors
 
-Giedre: [Github](https://github.com/GiedreSavickiene/mergaite)
+Giedre: [Github](https://giedresavickiene.github.io/Web-desing/)
